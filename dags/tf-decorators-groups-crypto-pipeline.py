@@ -18,7 +18,7 @@ import requests
     catchup=False,
     tags=['crypto', 'pipeline'],
     default_args={
-        'owner': 'luan moreno m. maciel',
+        'owner': 'Wenderson Fagundes',
         'retries': 1,
         'retry_delay': timedelta(minutes=5)
     }
